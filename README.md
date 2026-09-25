@@ -83,4 +83,4 @@ Pull requests welcome. Open an issue first to discuss major changes.
 
 ## 📥 Model Weights
 
-Download best.pt from [GitHub Releases]([your-release-link-here](https://github.com/anmarw38-ops/Pathvision/releases/download/v1.0/best.pt)) and place it in the project root before running main.py.
+Download best.pt from [GitHub Releases](https://github.com/anmarw38-ops/Pathvision/releases/download/v1.0/best.pt) and place it in the project root before running main.py.
